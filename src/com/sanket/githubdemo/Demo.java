@@ -1,5 +1,5 @@
 package com.sanket.githubdemo;
-import java.utils.Date;
+import java.util.Date;
 
 public class Demo {
 
